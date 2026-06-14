@@ -17,9 +17,9 @@ Jumlah Data : 104 data observasi (13 kabupaten/kota × 8 tahun, 2018–2025)
 Metode : Linear Regression (Scikit-Learn)
 
 Hasil :
-Koefisien regresi: -0.0989
-Intercept: 10.0274
-R² Score: 0.1274
+Koefisien regresi: -0.105509
+Intercept: 10.4840
+R² Score: 0.1471
 
-Kesimpulan: TPAK memiliki hubungan negatif terhadap TPT, namun pengaruhnya relatif rendah karena nilai R² sebesar 12,74%.
+Kesimpulan: TPAK memiliki hubungan negatif terhadap TPT, namun pengaruhnya relatif rendah karena nilai R² sebesar 14,71%.
 # SITI-FADILAH-KIRANI_F5212510007
